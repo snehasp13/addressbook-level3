@@ -20,3 +20,4 @@ publish.sh
 
 # gradle files
 /.gradle
+/.settings
