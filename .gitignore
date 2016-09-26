@@ -20,4 +20,8 @@ publish.sh
 
 # gradle files
 /.gradle
-/.settings
+
+# eclipse project files
+/.project
+/.classpath
+/.settings/
