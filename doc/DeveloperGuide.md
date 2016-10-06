@@ -23,9 +23,10 @@
 0. Fork this repo, and clone the fork to your computer
 1. Open Eclipse (Note: Ensure you have installed the **e(fx)clipse plugin** as given in the prerequisites above)
 2. Click `File` > `Import`
-3. Click `General` > `Existing Projects into Workspace` > `Next`
-4. Click `Browse`, then locate the project's directory
-5. Click `Finish`
+3. Click `Gradle` > `Gradle Project` > `Next`
+4. At the welcome screen, click `Next`
+5. Click `Browse`, then locate the project's root directory
+6. Click `Finish`
 
 ## Design
 <img src="images/mainClassDiagram.png"/>

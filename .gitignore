@@ -17,3 +17,11 @@ test/data/
 /bin/
 data/
 publish.sh
+
+# gradle files
+/.gradle
+
+# eclipse project files
+/.project
+/.classpath
+/.settings/
